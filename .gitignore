@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Node (if backend uses it)
+node_modules/
+
+# Databases / dumps
+*.db
+*.sqlite
+
+# Logs
+*.log
